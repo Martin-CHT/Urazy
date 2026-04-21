@@ -1,0 +1,51 @@
+(00) Žádné informace.
+(10) Odchylka v důsledku elektrických problémů, výbuchu, požáru - nespecifikovaná.
+(11) Elektrický problém v důsledku poruchy zařízení - vedoucí k nepřímému dotyku.
+(12) Elektrický problém vedoucí k přímému dotyku.
+(13) Výbuch.
+(14) Požár, vzplanutí.
+(19) Jiná - výše neuvedená - odchylka Skupiny 10.
+(20) Odchylka v důsledku přeplnění, převrácení, úniku, protékání, vypařování, emise - nespecifikovaná.
+(21) Pevné skupenství - přeplnění, převrácení.
+(22) Kapalné skupenství - únik, zvlhnutí, protékání, postříkání, rozprášení.
+(23) Plynné skupenství - vypařování, vznik aerosolu, vznik plynu.
+(24) Práškovitý materiál - vznik kouře, prach/částice v suspenzi/emisi.
+(29) Jiná - výše neuvedená - odchylka Skupiny 20.
+(30) Lom, prasknutí, puknutí, uklouznutí, pád, zhroucení materiálního faktoru - nespecifikováno.
+(31) Lom materiálu - ve spoji, ve svaru.
+(32) Lom, prasknutí - působící vznik třísek/střepů (dřevo, sklo, kov, kámen, plastická hmoty, ostatní).
+(33) Sklouznutí, pád, zborcení materiálního faktoru - shora (pád na postiženého).
+(34) Sklouznutí, pád, zborcení materiálního faktoru - zdola (stažení postiženého dolů).
+(39) Jiná - výše neuvedená - odchylka Skupiny 30.
+(40) Ztráta kontroly (celková nebo dílčí) nad strojem, dopravním prostředkem nebo manipulačním zařízením, transportními prostředky nebo manipulačním zařízením, ručním nářadím, předmětem, zvířetem - nespecifikováno.
+(41) Ztráta kontroly (celková nebo dílčí) nad strojem (včetně nechtěného spuštění) nebo nad materiálem který je strojem zpracováván.
+(42) Ztráta kontroly (celková nebo dílčí) nad dopravním prostředkem nebo manipulačním zařízením (s motorem nebo bezmotorovým).
+(43) Ztráta kontroly (celková nebo dílčí) nad ručním nářadím (s motorem nebo bezmotorovým) nebo nad materiálem který je nářadím zpracováván.
+(44) Ztráta kontroly (celková nebo dílčí) předmětem (přenášeným, přemísťovaným, manipulovaným, apod.).
+(45) Ztráta kontroly (celková nebo dílčí) nad zvířetem.
+(49) Jiná - výše neuvedená - odchylka Skupiny 40.
+(50) Sklouznutí - klopýtnutí a pád - pád osob - nespecifikováno.
+(51) Pád osob - na nižší úroveň.
+(52) Sklouznutí - klopýtnutí a pád - pád osob - na stejnou úroveň.
+(59) Jiná - výše neuvedená - odchylka Skupiny 50.
+(60) Pohyb těla bez fyzické námahy (všeobecně vedoucí k vnějšímu zranění) - nespecifikován.
+(61) Stoupnutí na ostrý předmět.
+(62) Kleknutí, sednutí, lehnutí na ostrý předmět.
+(63) Zachycení nebo vlečení něčím nebo setrvačností.
+(64) Nekoordinované pohyby, nežádoucí nebo špatně načasované činnosti.
+(69) Jiná - výše neuvedená - odchylka Skupiny 60.
+(70) Pohyb těla pod nebo s fyzickou námahou (všeobecně vedoucí ke vnitřnímu zranění) - nespecifikován.
+(71) Zdvihání, nesení, vstávání.
+(72) Tlačení, tažení.
+(73) Pokládání, shýbání se dolů.
+(74) Kroucení, otáčení.
+(75) Špatné našlápnutí, zkroucení nohy nebo kotníku, uklouznutí bez pádu.
+(79) Jiná - výše neuvedená - odchylka Skupiny 70.
+(80) Šok, úlek, násilí, ohrožení, napadení, vystupování - nespecifikováno.
+(81) Šok, úlek.
+(82) Násilí, ohrožení, napadení - mezi zaměstnanci společnosti podléhajícími pravomoci zaměstnavatele.
+(83) Násilí, ohrožení, napadení - ze strany lidí mimo společnost směrem k obětem vykonávajícím své povinnosti
+(84) Napadení, poražení - zvířetem.
+(85) Přítomnost oběti nebo třetí osoby jako takové vytvářející nebezpečí pro sebe a eventuálně i pro ostatní.
+(89) Jiná - výše neuvedená - odchylka Skupiny 80.
+(99) Ostatní odchylky výše neuvedené v této klasifikaci.

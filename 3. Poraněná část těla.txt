@@ -1,0 +1,41 @@
+(00) Zraněná část těla nespecifikovaná
+(10) Hlava bez podrobnějšího rozlišení, dále nespecifikovaná
+(11) Hlava, mozek, lebeční nervy a cévy
+(12) Tvář
+(13) Oko
+(14) Ucho
+(15) Zuby
+(18) Hlava - více postižených oblastí
+(19) Hlava - jiné části výše neuvedené
+(20) Krk včetně páteře a krčních obratlů
+(21) Krk včetně páteře a krčních obratlů
+(29) Krk - jiné části dosud neuvedené
+(30) Záda, včetně páteře a zádových obratlů
+(31) Záda včetně páteře a zádových obratlů
+(39) Záda - jiné části výše neuvedené
+(40) Trup a orgány bez podrobnějšího rozlišení
+(41) Hrudní koš, žebra včetně kloubů a lopatek
+(42) Oblast hrudníku včetně orgánů
+(43) Pánevní a břišní oblast včetně orgánů
+(48) Trup - více postižených oblastí
+(49) Trup - jiné části výše neuvedené
+(50) Horní končetiny bez podrobnějšího rozlišení
+(51) Rameno a ramenní klouby
+(52) Ruka včetně lokte
+(53) Ruka od zápěstí dolů
+(54) Prst
+(55) Zápěstí
+(58) Horní končetiny - více postižených oblastí
+(59) Horní končetiny - jiné části výše neuvedené
+(60) Dolní končetiny bez podrobnějšího rozlišení
+(61) Bedra, bederní klouby
+(62) Noha včetně kolena
+(63) Kotník
+(64) Noha od kotníku dolů
+(65) Prst na noze
+(68) Dolní končetiny - více postižených oblastí
+(69) Dolní končetiny - jiné části výše neuvedené
+(70) Celé tělo a více oblastí bez podrobnějšího rozlišení
+(71) Celé tělo (systémové účinky)
+(78) Tělo - více postižených oblastí
+(79) Tělo - jiná zraněná část těla výše neuvedená

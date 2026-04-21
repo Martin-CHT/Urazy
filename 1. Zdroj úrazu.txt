@@ -1,0 +1,182 @@
+(00,00) Žádný zdroj nebo žádné informace
+(01,00) Stavby, konstrukce, povrchy - na úrovni terénu (v interiéru nebo exteriéru, pevné nebo mobilní, dočasné nebo trvalé) - bez specifikace
+(01,01) Stavební prvky, konstrukční prvky - dveře, stěny, příčky, apod. a úmyslné překážky.
+(01,02) Povrchy nebo pohyb na terénu - terén a podlahy (interiérové a exteriérové, zemědělská půda, sportoviště, kluzké podlahy, zavalené podlahy, prkna s hřebíky).
+(01,03) Povrchy nebo pohyb na úrovni terénu - mobilní.
+(01,99) Ostatní stavby, konstrukce, povrchy na úrovni terénu.
+(02,00) Stavby, konstrukce, povrchy - nad úrovní terénu (v interiéru nebo exteriéru, pevné nebo mobilní, dočasné nebo trvalé) - bez specifikace
+(02,01) Části staveb nad úrovní terénu - pevné (stropy, terasy, dveře, okna, schodiště, nábřeží).
+(02,02) Konstrukce, povrchy nad úrovní terénu - mobilní (včetně můstků, pevných žebříků, pylonů).
+(02,03) Konstrukce, povrchy nad úrovní terénu - mobilní (včetně lešení, mobilních žebříků, závěsných lešení, výsuvných plošin).
+(02,04) Konstrukce, povrchy nad úrovní terénu - dočasné (včetně dočasného lešení, bezpečnostních postrojů, závěsných lávek).
+(02,05) Konstrukce, povrchy nad úrovní terénu - mobilní (včetně vrtacích plošin, lešení na člunech).
+(02,99) Ostatní stavby, konstrukce, povrchy nad úrovní terénu.
+(03,00) Stavby, konstrukce, povrchy - pod úrovní terénu (v interiéru nebo exteriéru) - bez specifikace
+(03,01) Výkopy, rýhy, studny, jámy, svahy, montážní jámy v garážích.
+(03,02) Podzemní oblasti, tunely.
+(03,03) Podvodní prostředí.
+(03,99) Ostatní podzemní stavby, konstrukce, povrchy pod úrovní terénu.
+(04,00) Systémy pro dodávku a distribuci materiálů, potrubní sítě - bez specifikace.
+(04,01) Systémy pro dodávku a distribuci materiálů, potrubní sítě - pevné - pro plyn, vzduch, kapaliny, pevné látky - včetně násypek.
+(04,02) Systémy pro dodávku a distribuci materiálů, potrubní sítě - mobilní.
+(04,03) Kanalizační potrubí, stoky.
+(04,99) Ostatní systémy pro dodávku a distribuci materiálů, potrubní sítě.
+(05,00) Motory, systémy pro přenos a ukládání energie - bez specifikace
+(05,01) Motory, zařízení na výrobu elektrické energie (tepelné, elektrické, radiační).
+(05,02) Systémy pro přenos a ukládání energie (mechanické, pneumatické, hydraulické, elektrické, včetně baterií a akumulátorů).
+(05,99) Ostatní systémy pro přenos a ukládání energie.
+(06,00) Ruční nástroje, nepoháněné - bez specifikace.
+(06,01) Ruční nástroje, nepoháněné - pro řezání.
+(06,02) Ruční nástroje, nepoháněné - pro řezání, dělení (včetně nůžek, nůžek na plech, zahradnických nůžek).
+(06,03) Ruční nástroje, nepoháněné - pro krájení, drážkování, dlabání, ořezávání, obrubování, přestřihávání.
+(06,04) Ruční nástroje, nepoháněné - pro škrábání, leštění, obrušování.
+(06,05) Ruční nástroje, nepoháněné - pro vrtání, řezání závitů, šroubování.
+(06,06) Ruční nástroje, nepoháněné - pro sbíjení hřebíky, nýtování, spojování sponkami.
+(06,07) Ruční nástroje, nepoháněné - pro šití, pletení.
+(06,08) Ruční nástroje, nepoháněné - pro svařování, lepení.
+(06,09) Ruční nástroje, nepoháněné - pro těžení materiálů a práci se zeminami (včetně zemědělských nástrojů).
+(06,10) Ruční nástroje, nepoháněné - pro voskování, mazání, mytí, čištění.
+(06,11) Ruční nástroje, nepoháněné - pro nanášení nátěrů.
+(06,12) Ruční nástroje, nepoháněné - pro přidržování na místě, upínání.
+(06,13) Ruční nástroje, nepoháněné - pro kuchyňské práce (s výjimkou nožů).
+(06,14) Ruční nástroje, nepoháněné - pro použití v lékařství a chirurgii - ostré, řezné.
+(06,15) Ruční nástroje, nepoháněné - pro použití v lékařství a chirurgii - jiné než řezné, ostatní.
+(06,99) Ostatní ruční nástroje, nepoháněné.
+(07,00) Ruční nebo rukou vedené nástroje, mechanické - bez specifikace.
+(07,01) Mechanické ruční nástroje - pro řezání.
+(07,02) Mechanické ruční nástroje - pro řezání, dělení (včetně nůžek, nůžek na plech, zahradnických nůžek).
+(07,03) Mechanické ruční nástroje - pro krájení, drážkování, dlabání, ořezávání (stříhání živých plotů viz 09,02), obrubování, přestřihávání.
+(07,04) Mechanické ruční nástroje - pro škrábání, leštění, obrušování.
+(07,05) Ruční nástroje, nepoháněné - pro vrtání, řezání závitů, šroubování.
+(07,06) Mechanické ruční nástroje - pro sbíjení hřebíky, nýtování, spojování sponkami.
+(07,07) Mechanické ruční nástroje - pro šití, pletení.
+(07,08) Mechanické ruční nástroje - pro svařování, lepení.
+(07,09) Mechanické ruční nástroje - pro těžení materiálů a práci se zeminami (včetně zemědělských nástrojů, nástrojů na rozbíjení betonu).
+(07,10) Ruční nástroje, nepoháněné - pro voskování, mazání, mytí, čištění (včetně vysavačů a vysokotlakých čističů).
+(07,11) Mechanické ruční nástroje - pro nanášení nátěrů.
+(07,12) Mechanické ruční nástroje - pro přidržování na místě, upínání.
+(07,13) Mechanické ruční nástroje - pro kuchyňské práce (s výjimkou nožů).
+(07,14) Mechanické ruční nástroje - pro zahřívání (včetně vysoušečů, plamenometů, žehliček).
+(07,15) Mechanické ruční nástroje - pro použití v lékařství a chirurgii - ostré, řezné.
+(07,16) Mechanické ruční nástroje - pro použití v lékařství a chirurgii - jiné než řezné, ostatní.
+(07,17) Pneumatické pistole (bez specifikace nástroje).
+(07,99) Ostatní ruční nebo rukou vedené nástroje.
+(08,00) Ruční nástroje s nespecifikovaným zdrojem pohonu - bez specifikace
+(08,01) Ruční nástroje s nespecifikovaným zdrojem pohonu - pro řezání.
+(08,02) Ruční nástroje s nespecifikovaným zdrojem pohonu -pro řezání, dělení (včetně nůžek, nůžek na plech, zahradnických nůžek).
+(08,03) Ruční nástroje s nespecifikovaným zdrojem pohonu - pro krájení, drážkování, dlabání, ořezávání, obrubování, přestřihávání.
+(08,04) Ruční nástroje s nespecifikovaným zdrojem pohonu - pro škrábání, leštění, obrušování.
+(08,05) Ruční nástroje s nespecifikovaným zdrojem pohonu - pro vrtání, řezání závitů, šroubování.
+(08,06) Ruční nástroje s nespecifikovaným zdrojem pohonu - pro sbíjení hřebíky, nýtování, spojování sponkami.
+(08,07) Ruční nástroje s nespecifikovaným zdrojem pohonu - pro šití, pletení.
+(08,08) Ruční nástroje s nespecifikovaným zdrojem pohonu - pro svařování, lepení.
+(08,09) Ruční nástroje s nespecifikovaným zdrojem pohonu - pro těžení materiálů a práci se zeminami (včetně zemědělských nástrojů).
+(08,10) Ruční nástroje s nespecifikovaným zdrojem pohonu - pro voskování, mazání, mytí, čištění.
+(08,11) Ruční nástroje s nespecifikovaným zdrojem pohonu - pro nanášení nátěrů.
+(08,12) Ruční nástroje s nespecifikovaným zdrojem pohonu - pro přidržování na místě, upínání.
+(08,13) Ruční nástroje s nespecifikovaným zdrojem pohonu - pro kuchyňské práce (s výjimkou nožů).
+(08,14) Ruční nástroje s nespecifikovaným zdrojem pohonu - pro použití v lékařství a chirurgii - ostré, řezné.
+(08,15) Ruční nástroje s nespecifikovaným zdrojem pohonu - pro použití v lékařství a chirurgii - jiné než řezné, ostatní.
+(08,99) Ostatní ruční nástroje s nespecifikovaným zdrojem pohonu.
+(09,00) Stroje a zařízení - přenosné nebo mobilní - bez specifikace.
+(09,01) Přenosné nebo mobilní stroje - pro těžení materiálů a práci se zeminami - stroje pro doly, lomy, a konstrukce a stroje pro stavebnictví.
+(09,02) Přenosné nebo mobilní stroje - pro těžení materiálů a zemědělské práce.
+(09,99) Ostatní mobilní stroje a zařízení.
+(10,00) Stroje a zařízení - stabilní - bez specifikace.
+(10,01) Stabilní stroje a zařízení pro dobývání materiálů nebo práci se zeminami.
+(10,02) Stroje pro přípravu materiálů: drcení, mletí, filtrování, třídění, míchání, směšování.
+(10,03) Stroje pro zpracování materiálů - chemické procesy (reaktivní procesy, fermentační procesy).
+(10,04) Stroje pro zpracování materiálů - horké procesy (pece, sušárny, vypalovací pece).
+(10,05) Stroje pro zpracování materiálů - studené procesy (vytváření chladu).
+(10,06) Stroje pro zpracování materiálů - ostatní procesy.
+(10,07) Tvářecí stroje - tváření lisováním, mačkáním.
+(10,08) Tvářecí stroje - tváření kalandrováním, válcováním, tlakovým válcováním (včetně lisů na papír).
+(10,09) Tvářecí stroje - tváření vstřikováním, vyfukováním, odstředivým litím, matricováním, litím).
+(10,10) Obráběcí stroje - pro hoblování, frézování, opracovávání povrchů, broušení, leštění, soustružení, vrtání.
+(10,11) Obráběcí stroje - pro řezání.
+(10,12) obráběcí stroje - pro řezání, dělení, stříhání (včetně vysekávačů, stříhacích strojů, ořezávačů, zařízení pro řezání kyslíkem).
+(10,13) Stroje pro úpravu povrchů - čištění, mytí, sušení, nanášení nátěrů, potiskování.
+(10,14) Stroje pro úpravu povrchů - galvanizování, elektrolytická úprava povrchů.
+(10,15) Montážní stroje (sváření, lepení, spojování hřebíky, šroubování, nýtování, spřádání, drátování, sešívání, spojování sponkami).
+(10,16) Balící stroje, obalovací stroje (plnění, štítkování, uzavírání, ...).
+(10,17) Ostatní stroje pro speciální průmyslová odvětví (různé monitorovací a testovací stroje).
+(10,18) Specifické stroje používané v zemědělstvím které nejsou zahrnuty mezi výše uvedené stroje.
+(10,99) Ostatní stabilní stroje a zařízení.
+(11,00) Manipulační, transportní, a skladovací systémy - BEZ SPECIFIKACE.
+(11,01) Pevné dopravníky, kontinuální manipulační zařízení a systémy - pásové, eskalátory, kabelové trasy, dopravníky, apod.
+(11,02) Elevátory, výtahy - zdvihadla, korečkové výtahy, vrátky, apod.
+(11,03) Pevné jeřáby, mobilní jeřáby, jeřáby montované na vozidlech, mostové jeřáby, zdvihací zařízení se zavěšeným břemenem.
+(11,04) Mobilní manipulační zařízení, manipulační vozíky (s motorem nebo bezmotorové), dvoukolové vozíky, paletové vozíky, apod.
+(11,05) Zdvihací zařízení, zajišťovací, upínací, a různá manipulační zařízení (včetně vázacích prostředků, háků, lan, ...).
+(11,06) Systémy pro skladování, zařízení pro balení, kontejnery (sila, nádrže, cisterny, apod.) - stabilní.
+(11,07) Systémy pro skladování, zařízení pro balení, kontejnery - stabilní.
+(11,08) Příslušenství pro skladování, ukládání do regálů, paletové stojany, palety.
+(11,09) Různé balení, malé a středně velké, mobilní (klece, různé nádoby, láhve, bedny, hasící přístroje, ...).
+(11,99) Ostatní manipulační, transportní, a skladovací systémy.
+(12,00) Pozemní dopravní prostředky - bez specifikace.
+(12,01) Dopravní prostředky - těžké: nákladní automobily, autobusy, dálkové autobusy (osobní přeprava).
+(12,02) Dopravní prostředky - lehké: přeprava zboží nebo osob.
+(12,03) Dopravní prostředky - dvou- nebo tříkolové, s motorem nebo bezmotorová.
+(12,04) Ostatní dopravní prostředky (lyže, kolečkové brusle).
+(12,09) Ostatní pozemní dopravní prostředky.
+(13,00) Ostatní transportní dopravní prostředky.
+(13,01) Dopravní prostředky - kolejové.
+(13,02) Dopravní prostředky - námořní.
+(13,03) Dopravní prostředky - vzdušné.
+(13,99) Ostatní výše neuvedené dopravní prostředky.
+(14,00) Materiály, předměty, výrobky, komponenty strojů nebo dopravních prostředků, úlomky, prach - bez specifikace.
+(14,01) Stavební materiály.
+(14,02) Komponenty strojů nebo zařízení.
+(14,03) Obrobené součásti nebo komponenty, nástroje (včetně fragmentů a třísek z těchto materiálů).
+(14,04) Spojovací zařízení: matice, šrouby, hřebíky, apod.).
+(14,05) Částice, prach, střepiny, fragmenty, kaluže, úlomky, ostatní suť.
+(14,06) Zemědělské výrobky (včetně semen, slámy, ostatních zemědělských výrobků).
+(14,07) Výrobky pro použití v zemědělství a chovu zvířat (včetně hnojiv a krmiv).
+(14,08) Skladované výrobky - včetně předmětů a obalů ve skladovacích prostorách.
+(14,09) Skladované výrobky - v rolích a na cívkách.
+(14,10) Břemena - transportovaná mechanickým manipulačním nebo transportním zařízením.
+(14,11) Břemena - zavěšená na zdvihacím zařízení, úroveň jeřábu, une grue.
+(14,12) Břemena - manipulovaná manuálně.
+(14,99) Ostatní materiály, předměty, výrobky, komponenty strojů nebo dopravních prostředků.
+(15,00) Chemické, výbušné, radioaktivní, biologické látky - bez specifikace.
+(15,01) Látky - žíravé, korozívní (pevné, kapalné, nebo plynné).
+(15,02) Látky - zdraví škodlivé, toxické (pevné, kapalné, nebo plynné).
+(15,03) Látky - hořlavé (pevné, kapalné, nebo plynné).
+(15,04) Látky - výbušné, reaktivní (pevné, kapalné, nebo plynné).
+(15,05) Plyny, páry bez specifických účinků, inertní vůči životním formám, dusivé)
+(15,06) Látky - radioaktivní.
+(15,07) Látky - biologické.
+(15,08) Látky, materiály - bez specifických rizik (voda, inertní materiály, ...).
+(15,99) Ostatní chemické, výbušné, radioaktivní, biologické látky.
+(16,00) Bezpečnostní zařízení a vybavení - bez specifikace.
+(16,01) Bezpečnostní zařízení - na strojích.
+(16,02) Ochranná zařízení - individuální.
+(16,03) Nouzová zařízení a vybavení.
+(16,99) Ostatní bezpečnostní zařízení a vybavení.
+(17,00) Vybavení kanceláří, osobní vybavení, sportovní vybavení, zbraně, přístroje pro domácnost - bez specifikace.
+(17,01) Nábytek.
+(17,02) Vybavení - počítač, zařízení pro automatizaci kancelářských činností, reprografická zařízení, komunikační zařízení.
+(17,03) Vybavení - pro učení, psaní, kreslení - včetně psacích strojů, frankovacích strojů, zvětšovacích přístrojů, kontrolních (píchacích) hodin.
+(17,04) Předměty a vybavení pro sport a hry.
+(17,05) Zbraně.
+(17,06) Osobní předměty, oděvy.
+(17,07) Hudební nástroje.
+(17,99) Ostatní vybavení kanceláří, osobní vybavení, sportovní vybavení, zbraně, přístroje pro domácnost.
+(18,00) Živé organismy a lidské bytosti.
+(18,01) Stromy, rostliny, úroda.
+(18,02) Zvířata - domácí a chovná.
+(18,03) Zvířata - divoce žijící zvířata, hmyz, hadi.
+(18,04) Mikroorganismy.
+(18,05) Lidské bytosti.
+(18,99) Ostatní živé organismy a lidské bytosti.
+(19,00) Objemný odpad - bez specifikace.
+(19,01) Objemný odpad - ze surovin, výrobků, materiálů, předmětů.
+(19,02) Objemný odpad - z chemikálií.
+(19,03) Objemný odpad - u biologických látek, rostlin, zvířat.
+(19,99) Ostatní objemný odpad.
+(20,00) Fyzikální fenomény a přírodní živly - bez specifikace.
+(20,01) Fyzikální fenomény - hluk, přírodní záření, světlo, světelný oblouk, komprese, dekomprese, tlak.
+(20,02) Přírodní a atmosférické živly (včetně vody, bláta, deště, krupobití, sněhu, ledu, větru, apod.).
+(20,03) Přírodní katastrofy (včetně záplav, sopečných erupcí, zemětřesení, přílivových vln, ohně, velkých požárů).
+(20,99) Ostatní fyzikální fenomény a přírodní živly.
+(99,00) Ostatní materiální faktory neuvedené v této klasifikaci.

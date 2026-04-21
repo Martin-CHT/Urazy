@@ -1,0 +1,47 @@
+(000) Neznámý nebo neurčený druh zranění
+(010) Rány a povrchová zranění
+(011) Povrchové zranění
+(012) Otevřené rány
+(013) Zranění se ztrátou substance nebo poranění s poškozením svalů, šlach, nebo nervů.
+(019) Jiné typy ran a povrchových zranění
+(020) Zlomeniny kostí
+(021) Zavřené zlomeniny
+(022) Otevřené zlomeniny
+(029) Jiné typy zlomenin kostí
+(030) Vykloubení, vyvrtnutí, natažení
+(031) Vykloubení nebo neúplné vykloubení
+(032) Vyvrtnutí nebo natažení
+(039) Jiné typy vykloubení, vyvrtnutí, natažení
+(040) Traumatická amputace (ztráta částí těla)
+(050) Otřes mozku a vnitřní zranění
+(051) Otřes mozku a vnitrolebeční zranění
+(052) Vnitřní zranění
+(059) Jiné typy otřesů mozku a vnitřních zranění
+(060) Popáleniny, opařeniny a omrzliny
+(061) Popáleniny a opařeniny (tepelné)
+(062) Chemické popáleniny (poleptání)
+(063) Omrzliny
+(069) Ostatní typy popálenin, opařenin a omrzlin
+(070) Otravy a infekce
+(071) Akutní otravy
+(072) Akutní infekce
+(079) Jiné typy otrav a infekcí
+(080) Tonutí a dušení
+(081) Dušení
+(082) Tonutí bez smrtelných následků
+(089) Jiné typy tonutí a dušení
+(090) Účinky zvuku vibrací, a tlaku
+(091) Akutní ztráta sluchu.
+(092) Působení tlaku (barotrauma).
+(099) Jiné účinky zvuku, vibrací a tlaku
+(100) Účinky extrémních teplot, světla a ozáření
+(101) Úpal z tepla a slunečního záření
+(102) Účinky ozáření (netepelné)
+(103) Účinky snížené teploty
+(109) Jiné účinky extrémních teplot, světla a ozáření
+(110) Šok
+(111) Šok po agresích a hrozbách
+(112) Traumatické šoky
+(119) Jiné typy šoků
+(120) Vícenásobné zranění
+(999) Jiná specifická zranění nezahrnutá do jiných kategorií
